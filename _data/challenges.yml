@@ -28,6 +28,7 @@ challenge_record(2):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(3):
   challenge_title: Energetic Core-Shell Nanocluster Production
   challenge_number: CD-000006
@@ -58,6 +59,7 @@ challenge_record(3):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(4):
   challenge_title: Drought Code Sprint
   challenge_number: CD-000007
@@ -88,6 +90,7 @@ challenge_record(4):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(5):
   challenge_title: Equal Futures App Challenge
   challenge_number: CD-000008
@@ -118,6 +121,7 @@ challenge_record(5):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(6):
   challenge_title: National Humanities Medal Design Competition
   challenge_number: CD-000009
@@ -148,6 +152,7 @@ challenge_record(6):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(8):
   challenge_title: \"Save Out Loud\" Photo and Video Contest
   challenge_number: CD-000011
@@ -178,6 +183,7 @@ challenge_record(8):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(9):
   challenge_title: Big Data Challenge Series
   challenge_number: CD-000012
@@ -208,6 +214,7 @@ challenge_record(9):
   impact_stories: 
   outcome_notes: 
   winner_website_urls: 
+
 challenge_record(10):
   challenge_title: Evidence-Based Care Challenge: Applying Evidence in NP/PA Retail Settings
   challenge_number: CD-000013
