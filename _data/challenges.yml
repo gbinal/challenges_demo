@@ -1,5 +1,5 @@
 challenge_record(2):
-  challenge_title: National Institute of Justice Body Armor Challenge: How Long Does Body Armor Really Last?
+  challenge_title: National Institute of Justice Body Armor Challenge - How Long Does Body Armor Really Last?
   challenge_number: CD-000005
   department-full: U.S. Department of Justice
   department: DOJ
@@ -216,7 +216,7 @@ challenge_record(9):
   winner_website_urls: 
 
 challenge_record(10):
-  challenge_title: Evidence-Based Care Challenge: Applying Evidence in NP/PA Retail Settings
+  challenge_title: Evidence-Based Care Challenge - Applying Evidence in NP/PA Retail Settings
   challenge_number: CD-000013
   department-full: U.S. Department of Health and Human Services
   department: HHS
@@ -243,5 +243,5 @@ challenge_record(10):
   number_of_winners: 
   results: 
   impact_stories: 
-  outcome_notes: First Place: QR Medica. Second Place: PAWS Medical Team. Third Place: The Typanic Trio.
+  outcome_notes: First Place - QR Medica.
   winner_website_urls: 
